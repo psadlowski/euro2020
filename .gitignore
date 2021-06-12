@@ -1,0 +1,9 @@
+# Don't sync Jupyter Notebooks
+.ipynb_checkpoints/*
+*.ipynb
+# Skip saved model fits
+fits/*
+# Skip the Excel support files
+*.xls
+*.xlsx
+
